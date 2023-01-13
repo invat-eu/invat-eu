@@ -6,7 +6,9 @@ export default function Footer() {
     <header id="header">
       <h1>{config.authorName}</h1>
       <p>
-        {config.authorHeading} - acceseaza <a target="_blank" rel="noreferrer noopener" href="https://www.blog.invat.eu">Blog</a>.
+      <a target="_blank" rel="noreferrer noopener" href="https://www.blog.invat.eu/manifest/">Resurse</a>
+      {' pentru sistemul educational din Romania - acceseaza '}
+      <a target="_blank" rel="noreferrer noopener" href="https://www.blog.invat.eu">Blog</a>.
       </p>
       <nav>
         <ul>
