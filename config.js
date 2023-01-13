@@ -24,14 +24,14 @@ module.exports = {
       url: 'https://twitter.com/eu_invat',
     },
     {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:contact@invat.eu',
-    },
-    {
       icon: 'fa-medium',
       name: 'Mail',
       url: 'https://www.blog.invat.eu',
-    },    
+    },     
+    {
+      icon: 'fa-envelope-o',
+      name: 'Email',
+      url: 'mailto:contact@invat.eu',
+    },   
   ],
 };
