@@ -14,24 +14,19 @@ module.exports = {
   authorHeading: 'Resurse pentru sistemul educational din Romania',
   authorSocialLinks: [
     {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://www.facebook.com/invat.eu',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/eu_invat',
+      icon: 'fa-graduation-cap',
+      name: 'Resurse eLearning',
+      url: 'https://www.elearning.invat.eu/intro/',
     },
     {
       icon: 'fa-medium',
-      name: 'Mail',
+      name: 'Blog eLearning',
       url: 'https://www.blog.invat.eu',
-    },     
-    {
-      icon: 'fa-envelope-o',
-      name: 'Email',
-      url: 'mailto:contact@invat.eu',
     },   
+    {
+      icon: 'fa-facebook',
+      name: 'Site Facebook',
+      url: 'https://www.facebook.com/invat.eu',
+    }
   ],
 };
