@@ -27,6 +27,11 @@ module.exports = {
       icon: 'fa-facebook',
       name: 'Site Facebook',
       url: 'https://www.facebook.com/invat.eu',
+    },   
+    {
+      icon: 'fa-comments',
+      name: 'Discord Community',
+      url: 'https://discord.gg/uh2WWTKt',
     }
   ],
 };

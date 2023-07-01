@@ -8,9 +8,11 @@ export default function Footer() {
       <p>
 
         Resurse <a target="_blank" rel="noreferrer noopener" href="https://www.elearning.invat.eu/intro/">eLearning</a>
-        {' si '} 
+        {', '} 
         <a target="_blank" rel="noreferrer noopener" href="https://www.blog.invat.eu">Blog</a> 
-        {' pentru sistemul educational din Romania.'}
+        {' si '} 
+        <a target="_blank" rel="noreferrer noopener" href="https://discord.gg/uh2WWTKt">Comunitate (Discord)</a> 
+        {' pentru elevii din Romania.'}
         <br />
         <strong>
         <a href="mail:contact@invat.eu">contact@invat.eu</a>
