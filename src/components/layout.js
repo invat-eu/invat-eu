@@ -20,8 +20,8 @@ const Layout = ({ children, darkText }) => (
         <Helmet
           title={data.site.siteMetadata.title}
           meta={[
-            { name: 'description', content: 'Aerial' },
-            { name: 'keywords', content: 'site, web' },
+            { name: 'description', content: 'Inteligenta Artificiala (IA), Educatie Financiara, Antreprenoriat, Time Management, Comunicare' },
+            { name: 'keywords', content: 'elearning, continut educational, inteligenta artificiala, edu financiar, comunicare, time-management' },
           ]}
         >
           <html lang="en" />
